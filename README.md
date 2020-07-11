@@ -1,4 +1,4 @@
-#基本情報
+◆基本情報
 
 氏名:
 小山 正
@@ -24,28 +24,38 @@ koyama@frontieres.co.jp
 案件開始可能時期:
 2020/07
 
-希望条件(金額):
-75万円～
+◆希望条件
+
+金額:75万円～
 
 希望職種:
-PM、PMO
+コンサル、PM、PMO、ディレクター
 
 希望言語・開発環境:
+SQL、PHP、Python、MT4/MQL4
 
-
-開発スキル・経験:
-
+◆開発スキル・経験
 
 経験職種:
-
+アプリエンジニア、インフラ、ネットワーク、データベース、セキュリティー、PM、PMO
 
 経験業界:
+通信、流通・小売、SI・業務系、銀行・証券・保険、メーカー
 
-
-経験言語・スキル:
+開発環境、使用スキル:
 
 
 Githubアカウント:
 https://github.com/tadashikoyama/resume.git
+
+自己PR:
+
+経歴書:
+https://github.com/tadashikoyama/resume.git
+
+
+
+
+
 
 
