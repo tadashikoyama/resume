@@ -29,6 +29,7 @@ koyama@frontieres.co.jp
 
 希望職種
 PM、PMO
+
 希望言語・開発環境
 
 
