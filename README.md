@@ -3,10 +3,10 @@
 
 基本情報
 
-・氏名　　　小山 正
-・生年月日　1979/12/09 
-・Mail　　　koyama@frontieres.co.jp
-・現住所　　東京都港区在住
+・氏名　　 小山 正
+・生年月日 1979/12/09 
+・Mail　　 koyama@frontieres.co.jp
+・現住所　 東京都港区在住
 
 スキル
 
