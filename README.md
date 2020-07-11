@@ -32,7 +32,7 @@ koyama@frontieres.co.jp
 コンサル、PM、PMO、ディレクター
 
 希望言語・開発環境:
-SQL、PHP、Python、Git、GitHub
+SQL、PHP、Python
 
 ◆開発スキル・経験
 
@@ -45,15 +45,12 @@ SQL、PHP、Python、Git、GitHub
 開発環境、使用スキル:
 Git、GitHub、Subversion、SQL、PHP、Python、MT4/MQL4
 
-Githubアカウント:
+Githubアカウント:（経歴書）
 https://github.com/tadashikoyama/resume.git
 
 自己PR(強み):
 
 ・開発の上流から現場まで全体に目を配り、それぞれのフェーズでの問題や改善点について適切な指示を与えプロジェクトを円滑に推進させることを得意としております。
-
-経歴書:
-https://github.com/tadashikoyama/resume.git
 
 
 
