@@ -9,9 +9,6 @@
 生年月日:
 1979/12/09
 
-Mail:
-koyama@frontieres.co.jp
-
 Chatwork ID:
 3t8ef1y1qpog8
 
