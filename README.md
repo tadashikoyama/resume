@@ -48,12 +48,9 @@ SQL、PHP、Python
 開発環境、使用スキル:
 XAMPP、Git、GitHub、Subversion、SQL、PHP、Python、MT4/MQL4
 
-Githubアカウント:（経歴書）
-https://github.com/tadashikoyama/resume.git
-
 自己PR(強み):
 
-・開発の上流から現場まで全体に目を配り、それぞれのフェーズでの問題や改善点について適切な指示を与えプロジェクトを円滑に推進させることを得意としております。
+開発の上流から現場まで全体に目を配り、それぞれのフェーズでの問題や改善点について適切な指示を与えプロジェクトを円滑に推進させることを得意としております。
 
 
 
