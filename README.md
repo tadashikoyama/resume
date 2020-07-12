@@ -46,7 +46,7 @@ SQL、PHP、Python
 通信、流通・小売、SI・業務系、銀行・証券・保険、メーカー
 
 開発環境、使用スキル:
-Git、GitHub、Subversion、SQL、PHP、Python、MT4/MQL4
+XAMPP、Git、GitHub、Subversion、SQL、PHP、Python、MT4/MQL4
 
 Githubアカウント:（経歴書）
 https://github.com/tadashikoyama/resume.git
