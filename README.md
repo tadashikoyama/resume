@@ -12,6 +12,9 @@
 Mail:
 koyama@frontieres.co.jp
 
+Chatwork ID:
+3t8ef1y1qpog8
+
 地域:
 東京都港区在住
 
