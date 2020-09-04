@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ◆基本情報
 
 氏名:
@@ -55,3 +56,7 @@ XAMPP、Git、GitHub、Subversion、SQL、PHP、Python、MT4/MQL4
 
 
 
+=======
+# resume
+resume
+>>>>>>> d50e3964fc92c930661e820ddde8c76bb55cc083
